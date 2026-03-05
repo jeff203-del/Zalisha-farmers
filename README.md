@@ -31,10 +31,10 @@ To get started with the Zalisha farmers, follow these steps:
 
 ## Contributing
 
-Contributions to the Zalisha farmers are welcome! If you find any issues, have suggestions, or want to add new features, please feel free to open an issue or submit a pull request on the GitHub repository.[jeffmutembei203@gmail.com]
+Contributions to the Zalisha farmers are welcome! If you find any issues, have suggestions, or want to add new features, please feel free to open an issue or submit a pull request on the GitHub repository.
 
 When contributing, please ensure that you follow the existing code style and guidelines. Include clear commit messages and provide a detailed description of your changes.
 
 ## 
 
-Thank you for using the Zalisha farmers! If you have any questions or need further assistance, please feel free to contact the project maintainer.
+Thank you for using the Zalisha farmers! If you have any questions or need further assistance, please feel free to contact the project maintainer.[jeffmutembei203@gmail.com]
